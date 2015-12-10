@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         webview.getSettings().setJavaScriptEnabled(true);
 
         try{
-            webview.loadUrl("http://www.baidu.com");
+            webview.loadUrl("http://www.taobao.com");
         }
         catch (Exception e)
         {
